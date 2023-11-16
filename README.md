@@ -7,7 +7,11 @@ These are the programming languages and tools I utilize, presented without any s
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,bots,git,html,js,mysql,nodejs,php,postgres,py,sqlite,tensorflow,vscode&perline=7" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,bots,git,html,js,mysql,nodejs,php" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,py,sqlite,tensorflow,vscode" />
   </a>
 </p>
 
@@ -15,7 +19,11 @@ And here are the ones I aspire to learn:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,aws,azure,bash,c,cpp,django,electron,express,firebase,java,matlab,pytorch,react,rust,ts&perline=8" />
+    <img src="https://skillicons.dev/icons?i=atom,aws,azure,bash,c,cpp,django,electron,express,firebase" />
+  </a>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,matlab,pytorch,react,rust,ts" />
   </a>
 </p>
 
