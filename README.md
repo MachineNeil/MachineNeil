@@ -1,9 +1,18 @@
 ## Hola, soy Neil Peña Martínez.
 
 I have programming as my _personal unpaid job_. I am a newcomer to this cosmos, although I aspire to go far despite coming from another, mostly unrelated area of knowledge. In short, I try to thrive in what seems to be too great for me, but I do not mistake ambition for hubris.
+<br>
 
-These are the programming languages and tools I utilize, presented without any specific hierarchy based on expertise, preference, or frequency:
+### My go-to technologies
+- **Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS
+- **Data Science**: TensorFlow, Keras, scikit-learn
+- **Database**: MySQL
+- **DevOps**: none yet!
+- **Version Control**: Git
+- **IDEs**: VS Code
 
+All in all, these are the programming languages, libraries, and tools I am _at least_ acquainted with, presented without any specific hierarchy based on expertise, preference, or frequency of use:
 
 <p align="center">
   <a href="https://skillicons.dev">
