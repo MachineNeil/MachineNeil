@@ -16,7 +16,7 @@ All in all, these are the programming languages, libraries, and tools I am _at l
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,bots,git,html,js,mysql,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,bots,git,html,js,mysql,nodejs,php,r" />
   </a>
   <br>
   <a href="https://skillicons.dev">
