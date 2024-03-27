@@ -19,7 +19,7 @@ All in all, these are the programming languages, libraries, and tools I am _at l
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,py,r,sqlite,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=postgres,py,java,sqlite,tensorflow,vscode" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@ And here are the ones I aspire to learn:
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,matlab,pytorch,react,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=r,matlab,pytorch,react,rust,ts" />
   </a>
 </p>
 
