@@ -19,7 +19,7 @@ All in all, these are the programming languages, libraries, and tools I am _at l
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,py,java,sqlite,tensorflow,vscode" />
+    <img src="https://skillicons.dev/icons?i=postgres,py,sqlite,tensorflow,vscode" />
   </a>
 </p>
 
