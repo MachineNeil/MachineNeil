@@ -31,7 +31,7 @@ And here are the ones I aspire to learn:
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=r,matlab,pytorch,react,rust,ts" />
+    <img src="https://skillicons.dev/icons?i=matlab,pytorch,react" />
   </a>
 </p>
 
