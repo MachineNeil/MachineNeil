@@ -1,6 +1,6 @@
 ## Hola, soy Neil Peña Martínez.
 
-I have programming as my _personal unpaid job_. I am a newcomer to this cosmos, although I aspire to go far despite coming from a different area of expertise. In short, I try to thrive in what seems to be too great for me, but I do not mistake ambition for hubris.
+I aspire to go far despite coming from a different area of expertise. In short, I try to thrive in what seems to be too great for me, but I do not mistake ambition for hubris.
 <br>
 
 ### My go-to technologies
