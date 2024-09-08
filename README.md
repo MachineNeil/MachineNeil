@@ -34,5 +34,3 @@ And here are the ones I aspire to learn:
     <img src="https://skillicons.dev/icons?i=matlab,pytorch,react" />
   </a>
 </p>
-
-Practice takes time, but it also takes motive, and I do not know which of the two is harder to find. I will have to make do.
