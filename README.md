@@ -6,7 +6,7 @@ I aspire to go far despite coming from a different area of expertise. In short, 
 ### My go-to technologies
 - **Languages**: Python, Java, JavaScript
 - **Web Development**: HTML, CSS
-- **Data Science**: TensorFlow, Keras, scikit-learn
+- **Data Science**: Excel, TensorFlow, Keras, scikit-learn
 - **Database**: MySQL
 - **Version Control**: Git
 - **IDEs**: VSCode, Eclipse
