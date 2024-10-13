@@ -15,7 +15,7 @@ All in all, these are the programming languages, libraries, and tools I am _at l
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,bots,git,html,java,js,mysql,nodejs,php" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,cpp,css,bots,git,html,java,js,mysql,nodejs,php" />
   </a>
   <br>
   <a href="https://skillicons.dev">
@@ -27,7 +27,7 @@ And here are the ones I aspire to learn:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=atom,aws,azure,bash,c,cpp,django,electron,express,firebase" />
+    <img src="https://skillicons.dev/icons?i=atom,aws,azure,bash,c,django,electron,express,firebase" />
   </a>
   <br>
   <a href="https://skillicons.dev">
